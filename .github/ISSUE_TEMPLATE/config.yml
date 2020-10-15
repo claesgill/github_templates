@@ -1,2 +1,1 @@
-template:
-  https://github.com/octo-org/octo-repo/issues/new?template=issue_template.md
+blank_issues_enabled: true
