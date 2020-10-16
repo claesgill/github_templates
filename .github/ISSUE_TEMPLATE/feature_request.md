@@ -5,4 +5,15 @@ labels: type/enhancement
 
 ---
 
-TODO
+## Feature description
+
+## Why is it needed?
+
+## Suggestion(s)/solution(s) [Optional]
+
+## Definition of done
+
+## Checklist (after created issue)
+- [ ] Added label(s)
+- [ ] Added to project
+- [ ] Added to milestone

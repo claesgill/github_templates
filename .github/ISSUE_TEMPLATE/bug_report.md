@@ -5,4 +5,15 @@ labels: type/bug
 
 ---
 
-TODO
+## Current behaviour
+
+## Expected behaviour
+
+## How to reproduce?
+
+## Suggestion(s)/solution(s) [Optional]
+
+## Checklist (after created issue)
+- [ ] Added label(s)
+- [ ] Added to project
+- [ ] Added to milestone
