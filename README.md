@@ -1,5 +1,5 @@
 # Demo for Github Templates
-All code/setup for the templates is in the `.github/` folder.
+All code/setup for the templates are in the `.github/` folder.
 
 ## Issues
 Create an [issue](https://github.com/claesgill/github_templates/issues) to see the template options.
