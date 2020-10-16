@@ -1,16 +1,10 @@
 ## 1 Closes/fixes/resolves issue(s)?
-*TODO*
-
 
 ## 2 What was added/changed/fixed?
-*TODO*
 
+## 3 Related issue(s)? [Optional]
 
-## 3 Related issue(s)? (y/n)
-
-
-## 4 Others (y/n)
-
+## 4 Others [Optional]
 
 ## 5 Checklist (after created PR)
 - [ ] Added revievers
